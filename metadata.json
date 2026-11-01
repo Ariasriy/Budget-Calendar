@@ -1,0 +1,6 @@
+{
+  "name": "Budget Calendar & Cashflow Monitoring",
+  "description": "Aplikasi responsive & PWA untuk perencanaan anggaran multi-tahun, kalender monitoring pengeluaran & pemasukan, pemantauan cashflow, dan analisis realisasi anggaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
